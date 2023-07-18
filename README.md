@@ -12,6 +12,7 @@
 
 🤝 ¡Me encantaría conectarme contigo! Si compartes mi pasión por la tecnología y la inclusión, o si tienes un proyecto interesante en el que podamos colaborar, no dudes en ponerte en contacto.
 
-¡Gracias por visitar mi perfil de GitHub!
+[![LinkedIn]](https://www.linkedin.com/in/noemi-cenobio-victoria-50807a250/)
+[![Gmail]](noemicenvictoria@gmail.com)
 
 

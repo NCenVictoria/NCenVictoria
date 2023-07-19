@@ -30,7 +30,8 @@
 
 🤝 ¡Me encantaría conectarme contigo! Si compartes mi pasión por la tecnología y la inclusión, o si tienes un proyecto interesante en el que podamos colaborar, no dudes en ponerte en contacto.
 
-[![LinkedIn](https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png)[Noemi Cenobio Victoria](https://www.linkedin.com/in/noemi-cenobio-victoria-50807a250/)
+[Noemi Cenobio Victoria](https://www.linkedin.com/in/noemi-cenobio-victoria-50807a250/)
+<br/>
 [Email](mailto:noemicenvictoria@gmail.com)
 
 

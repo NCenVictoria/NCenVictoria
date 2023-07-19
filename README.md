@@ -1,6 +1,6 @@
 ¡Bienvenido a mi perfil de GitHub!
 
-👋 ¡Hola! Soy Noemi Cenobio Victoria, un entusiasta Fullstack Developer con un enfoque en la creación de soluciones tecnológicas inclusivas y accesibles.
+👋 ¡Hola! Soy Yomi , entusiasta Fullstack Developer con un enfoque en la creación de soluciones tecnológicas inclusivas y accesibles.
 
 🚀 En busca de superar desafíos y aprender constantemente, mi trayectoria como Técnico en Electrónica me ha brindado una sólida formación en algoritmos y lógica pura. Mi verdadera pasión radica en la aplicación de mis habilidades técnicas para generar un impacto positivo en la sociedad.
 
@@ -30,7 +30,7 @@
 
 🤝 ¡Me encantaría conectarme contigo! Si compartes mi pasión por la tecnología y la inclusión, o si tienes un proyecto interesante en el que podamos colaborar, no dudes en ponerte en contacto.
 
-[![LinkedIn][https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png]](https://www.linkedin.com/in/noemi-cenobio-victoria-50807a250/)
+[![LinkedIn](https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-linkedin-3.png)[Noemi Cenobio Victoria](https://www.linkedin.com/in/noemi-cenobio-victoria-50807a250/)
 [Email](mailto:noemicenvictoria@gmail.com)
 
 
